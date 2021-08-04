@@ -19,11 +19,11 @@ You see that there is an other kind of comment tag : `//`
 
 **DON'T TOUCH THEM** 
 
-they are here to give instructions and comments, to help you to understand what's going on. If they are note `//`, your code will break and you don't want that. 
+they are here to give instructions and comments, to help you to understand what's going on. If they are notes without `//`, your code will break and you don't want that. 
 
-To make the script working, just remove the `/*` at the begining of the example and the `*/` at the end *or write your own lines of code between to examples*.
+To make the script working, just remove the `/*` at the begining of the example and the `*/` at the end *or write your own lines of code between two examples*.
 
-Last but not least, do you see this little arrow in the left column, just before the `/*` tag ? Click on it. They are pretty usefull to minimize the block wrapped between two comments tags, making the script more readable. And web developers likes readables scripts. 
+Last but not least, do you see this little arrow in the left column, just before the `/*` tag ? Click on it. They are pretty usefull to minimize the commented block, making the script more readable. And web developers likes readables scripts, isn't it ? 
 
 ![cross](https://user-images.githubusercontent.com/84771701/128261729-ef7d0d9a-d2fe-4381-b8c2-c2f22e4b7085.png)
 
