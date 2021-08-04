@@ -19,7 +19,7 @@ You see that there is an other kind of comment tag : `//`
 
 **DON'T TOUCH THEM** 
 
-they are here to go=ive instructions and comments, to help you to understand what's going on. If they are note `//`, your code will break and you don't want that. 
+they are here to give instructions and comments, to help you to understand what's going on. If they are note `//`, your code will break and you don't want that. 
 
 To make the script working, just remove the `/*` at the begining of the example and the `*/` at the end *or write your own lines of code between to examples*.
 
