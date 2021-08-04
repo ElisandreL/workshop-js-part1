@@ -13,7 +13,7 @@ First of all, take care of the little sign saying you face a comment : `/*` ... 
 
 Each topic and its examples are between comments tag : 
 
-![comments](https://github.com/ElisandreL/workshop-js-part1-/blob/master/assets/Capture%20d%E2%80%99%C3%A9cran%202021-08-05%20000448.png)
+![comments](https://github.com/ElisandreL/workshop-js-part1-/blob/master/assets/img/Capture%20d%E2%80%99%C3%A9cran%202021-08-05%20000448.png)
 
 You see that there is an other kind of comment tag : `//`
 
